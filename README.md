@@ -50,7 +50,7 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/arpit-portfolio.git
+   git clone https://github.com/arpit000010/arpit-portfolio.git
    cd arpit-portfolio
    ```
 
@@ -96,6 +96,6 @@ src/
 
 ## 📬 Contact
 
-Arpit Yadav - [Add your email/LinkedIn here]
+Arpit Yadav - [[Linkedin](https://www.linkedin.com/in/arpit-yadav-07b2b2300/)]
 
-Project Link: [https://github.com/yourusername/arpit-portfolio](https://github.com//arpit-portfolio)
+Project Link: [[arpit-portfolio]](https://github.com/arpit000010/arpit-portfolio)
